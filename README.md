@@ -12,6 +12,6 @@ This website was developed for a baseball and softball training center for a gra
 
 *  Use of SVG (logo in header).
 
-* Use of Flexbox (nav and 'Teams Training with Us' on About page)
+* Use of Flexbox (nav and 'Teams Training with Us' on About page).
 
-* Use of grid layout ('Learn More' sections on Home page and 'Teams Training with Us' on About page)
+* Use of grid layout ('Learn More' sections on Home page and 'Teams Training with Us' on About page).
