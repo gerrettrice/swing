@@ -4,7 +4,7 @@ This website was developed for a baseball and softball training center for a gra
 
 * Responsive design for mobile, tablet, laptop, and desktop.
 
-* Cross-browser compatibility (full disclosure: the grids aren't working in Firefox. I spent too much time trying to troubleshoot, but I was too far along to risk compromising a structure that works in Safari and Chrome).
+* Cross-browser compatibility.
 
 * Simple implementation of Sass mixins, variables, and nesting.
 
